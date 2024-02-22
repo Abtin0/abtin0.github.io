@@ -1,4 +1,5 @@
 body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font or fallback to sans-serif */
     background-color: #e0e5ec;
     display: flex;
     justify-content: center;
@@ -27,6 +28,7 @@ body {
 h1 {
     text-align: center;
     color: #212121;
+    font-size: 2em; /* Example font size */
 }
 
 p {
