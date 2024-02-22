@@ -1,0 +1,34 @@
+body {
+    background-color: #e0e5ec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+}
+
+.card {
+    background-color: #e0e5ec;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.neumorphic-effect {
+    background: #e0e5ec;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
+}
+
+h1 {
+    text-align: center;
+    color: #212121;
+}
+
+p {
+    color: #212121;
+}
